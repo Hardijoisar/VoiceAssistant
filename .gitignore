@@ -1,0 +1,6 @@
+.idea
+_pycache_
+config.py
+main.py
+scikit_image-0.19.2-cp310-cp310-win_amd64.whl
+openaitest.py
